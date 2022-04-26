@@ -2,7 +2,7 @@
 
 ![](./temporal-trolley.png)
 
-This repository contains a minimalist trolley problem template, that can be edited using (the free version of) [excalidraw](https://excalidraw.com/). The reason for this is that the current default trolley problem template is too low-quality, and not really suitable for being edited and manipulated.
+This repository contains a minimalist trolley problem template that can be edited using (the free version of) [excalidraw](https://excalidraw.com/). The reason for this is that the current default trolley problem template is too low-quality, and not really suitable for being edited and manipulated.
 
 ## Built With
 
